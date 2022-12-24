@@ -7,8 +7,7 @@ This web application was built using HTML, CSS, and vanilla JavaScript for the f
                      git clone https://github.com/sam-ayo/TaskManager.git
                      cd Taskmanager
                      npm install
-create .env globally
-
+                     touch .env 
 inside .env create a MONGO_URI =  Your Mongo uri key
 
                      npm start
