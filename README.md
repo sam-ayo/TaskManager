@@ -8,6 +8,7 @@ This web application was built using HTML, CSS, and vanilla JavaScript for the f
                      cd Taskmanager
                      npm install
 create .env globally
+
 inside .env create a MONGO_URI =  Your Mongo uri key
 
                      npm start
