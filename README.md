@@ -4,6 +4,9 @@ This web application was built using HTML, CSS, and vanilla JavaScript for the f
 
 ## To Run
 
-                                   git clone 
+                     git clone https://github.com/sam-ayo/TaskManager.git
+                     cd Taskmanager
+                     npm install
+                     npm start
                         
                         
